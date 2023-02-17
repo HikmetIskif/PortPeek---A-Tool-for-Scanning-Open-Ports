@@ -2,6 +2,7 @@
 A tool for scanning open ports of the target.
 
 >**USAGE**
+
 PortPeek has 2 ways of scan:
 1-Scan for common ports (Scans for common ports (ftp, ssh, telnet, smtp, dns ,http, https, pop3, smb, Imap)
 2-Scan the range limited by user.
